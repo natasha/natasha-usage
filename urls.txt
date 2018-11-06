@@ -85,6 +85,7 @@ https://github.com/LennyMRay/lit-analysis/tree/master/tools/namedEntities.py
 https://github.com/MMG34/RusCorp/tree/master/corp/views.py
 https://github.com/MWATelescope/mwa_gleam_scripts/tree/master/gleam_scripts/make_catalogue/QC_filter.py
 https://github.com/MWATelescope/mwa_gleam_scripts/tree/master/gleam_scripts/mosaics/scripts/QC_filter.py
+https://github.com/MelLain/hse-nlp/tree/master/seminars/sem7_ner/seminar_ner.ipynb
 https://github.com/NeilKaye/Script_Backup/tree/master/Scripts/Python/Landcover/aggregateLandcover.py
 https://github.com/NeilKaye/Script_Backup/tree/master/Scripts/Python/Landcover/createTimeseriesAll.py
 https://github.com/NeilKaye/Script_Backup/tree/master/Scripts/Python/Landcover/createTimeseriesAll2.py
@@ -95,6 +96,7 @@ https://github.com/NeilKaye/Script_Backup/tree/master/Scripts/Python/Landcover/c
 https://github.com/NeilKaye/Script_Backup/tree/master/Scripts/Python/Landcover/createTimeseriesScaleTest3.py
 https://github.com/NiteshOswal/Findmefood/tree/master/parent.py
 https://github.com/Pavel71/Dmia/tree/master/Sport/test1/Sport_Lesson1_Part3.ipynb
+https://github.com/Perevalov/intent_classifier/tree/master/Common/ner.py
 https://github.com/RMist3r/ida-hse-course-tasks/tree/master/price_prediction.ipynb
 https://github.com/Samchenko/fupm_4_course/tree/master/surnames_review.ipynb
 https://github.com/SergeyMikhaylov21/compling_homeworks/tree/master/natasha_textblob.py
@@ -103,6 +105,7 @@ https://github.com/Tanya-Gordeyeva/BusinessCard_server/tree/master/api/classific
 https://github.com/TonyKat/test_lda_ne/tree/master/main.py
 https://github.com/TonyKat/test_lda_ne/tree/master/test_ne+yargy+natasha.py
 https://github.com/TonyKat/test_lda_ne/tree/master/test_work_version.py
+https://github.com/UWPCE-PythonCert-ClassRepos/Self_Paced-Online/tree/master/students/MichaelM/lesson2/Lesson2_Ex2_FizzBuzz.py
 https://github.com/VarvaraHuts/compling/tree/master/natasha.ipynb
 https://github.com/YouScan/nlp-api/tree/master/api.py
 https://github.com/ZalinaAtnagulova/Prozhito_pers_recognition/tree/master/NER_Prozhito_az.ipynb
@@ -167,6 +170,10 @@ https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/grammars/subjec
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/grammars/sud.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/grammars/topic.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/match/adapt.py
+https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/match/info/adapt.py
+https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/match/info/grammar.py
+https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/match/spark/adapt.py
+https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/match/spark/grammar.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/parser.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/skip.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/arb/arb/tests/test_date.py
@@ -178,6 +185,11 @@ https://github.com/alexanderkuk/interfax-arb/tree/master/crf/main.py
 https://github.com/alexanderkuk/interfax-arb/tree/master/crf/notes.ipynb
 https://github.com/alexanderkuk/interfax-arb/tree/master/notes/start.ipynb
 https://github.com/alexanderkuk/interfax-crawl2/tree/master/crawl2/crawl2/crf.py
+https://github.com/alexanderkuk/mkrf-datirovka/tree/master/datirovka/datirovka/dsl.py
+https://github.com/alexanderkuk/mkrf-datirovka/tree/master/datirovka/datirovka/extractor.py
+https://github.com/alexanderkuk/mkrf-datirovka/tree/master/datirovka/datirovka/grammars.py
+https://github.com/alexanderkuk/mkrf-datirovka/tree/master/datirovka/datirovka/periodization.py
+https://github.com/alexanderkuk/mkrf-datirovka/tree/master/main.py
 https://github.com/alexmk7/python_school/tree/master/yargy.ipynb
 https://github.com/annadmitrieva/NLP-stuff/tree/master/collocation_generation-Copy4.ipynb
 https://github.com/anotherbugmaster/nlp_course/tree/master/task_4/task_4.py
@@ -204,17 +216,24 @@ https://github.com/avgaydashenko/nlp-hw/tree/master/task4/hw.ipynb
 https://github.com/bavadim/aninomizer/tree/master/aninomizer.py
 https://github.com/bureaucratic-labs/playground/tree/master/playground/settings.py
 https://github.com/bureaucratic-labs/playground/tree/master/playground/views.py
+https://github.com/burlaknastia/nirs/tree/master/Predict_prices.ipynb
 https://github.com/chrisfrohmaier/SESNe/tree/master/SESNeMC.py
 https://github.com/creaciond/nlp3/tree/master/seminars/seminar7/NER.ipynb
+https://github.com/danila19991/textAnalysisTutorial/tree/master/task5/solution5.py
 https://github.com/deepmipt/rus_ner_dataset/tree/master/prepare_vectorx_boosting_dataset.ipynb
 https://github.com/devarajun/LandUseMap_CMIP6_ORCHIDEE/tree/master/create_pftmap_Historical_CMIP6_ESA_LUH2v2h.py
 https://github.com/echernyak/nlp-course-fintech/tree/master/Seminar_NLP_Fintech_20_09.ipynb
+https://github.com/echernyak/nlp-course-fintech/tree/master/classes/class02 - VSM/Seminar_NLP_Fintech_20_09.ipynb
 https://github.com/euetova/HSE/tree/master/Prozhito/Prozhito.ipynb
 https://github.com/hmoon3/Python-INFO1-CE9990/tree/master/comet.py
+https://github.com/hyrmec/parsing_app/tree/master/utils/nlp/parse_class.py
 https://github.com/igashov/iPavlov/tree/master/cold_start_company/natasha_filtering.ipynb
 https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/from_table.py
 https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/from_text.py
+https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/main_information.py
+https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/name_rpd.py
 https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/parser.py
+https://github.com/iitProgect/parser_results_and_competitions/tree/master/parser/results.py
 https://github.com/ilyaly/CrimesParser-MVD_RF-/tree/master/CrimesParser.py
 https://github.com/ilyaly/CrimesParser-MVD_RF-/tree/master/Crimes_to_geojson.py
 https://github.com/ilyaly/CrimesParser-MVD_RF-/tree/master/yargyRules.py
@@ -243,14 +262,18 @@ https://github.com/mastyf/arbitr/tree/master/arb/arb/extractors/simple.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/extractors/staff.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/extractors/topic.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/address.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/attributed.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/claim.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/crf.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/date.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/fio.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/location.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/money.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/organisation.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/outcome.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/payment.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/penalty.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/person.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/reference.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/rep.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/requisites.py
@@ -260,6 +283,10 @@ https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/subject.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/sud.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/tokenizer.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/grammars/topic.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/match/info/adapt.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/match/info/grammar.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/parser.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/skip.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_address.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_date.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_money.py
@@ -269,11 +296,14 @@ https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_reference.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_reps.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_staff.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/tests/test_sud.py
+https://github.com/mastyf/arbitr/tree/master/arb/arb/tokenizer.py
 https://github.com/mastyf/arbitr/tree/master/arb/arb/utils.py
 https://github.com/mastyf/arbitr/tree/master/crf/main.py
 https://github.com/mastyf/arbitr/tree/master/crf/notes.ipynb
 https://github.com/mastyf/arbitr/tree/master/main.py
 https://github.com/mastyf/arbitr/tree/master/notes.ipynb
+https://github.com/mastyf/arbitr/tree/master/notes/start.ipynb
+https://github.com/mehwhatever0/YoungFighterCourse-/tree/master/task5.py
 https://github.com/natasha/natasha-benchmarks/tree/master/tomita/main.py
 https://github.com/natasha/natasha-benchmarks/tree/master/tomita/pypy.py
 https://github.com/natasha/natasha-examples/tree/master/01_lenta/notes.ipynb
@@ -305,6 +335,8 @@ https://github.com/natasha/natasha/tree/master/natasha/utils.py
 https://github.com/natasha/yargy-examples/tree/master/01_resume/notes.ipynb
 https://github.com/natasha/yargy-examples/tree/master/02_console/notes.ipynb
 https://github.com/natasha/yargy-examples/tree/master/03_fsem/notes.ipynb
+https://github.com/natasha/yargy-examples/tree/master/04_food/notes.ipynb
+https://github.com/natasha/yargy-examples/tree/master/04_food/workshop.ipynb
 https://github.com/natasha/yargy/tree/master/yargy/dot.py
 https://github.com/natasha/yargy/tree/master/yargy/interpretation/attribute.py
 https://github.com/natasha/yargy/tree/master/yargy/interpretation/fact.py
@@ -329,6 +361,7 @@ https://github.com/natasha/yargy/tree/master/yargy/tests/test_tagger.py
 https://github.com/natasha/yargy/tree/master/yargy/tests/test_tokenizer.py
 https://github.com/natasha/yargy/tree/master/yargy/tree/constructors.py
 https://github.com/natasha/yargy/tree/master/yargy/tree/transformators.py
+https://github.com/ne-bo/protein/tree/master/train.py
 https://github.com/netology-code/data-scientist-course/tree/master/6. NLP/6.4/ionov-nlp-04.ipynb
 https://github.com/netology-code/ds3-spring-2018/tree/master/5. NLP/5.6/libs.ipynb
 https://github.com/netology-code/ds3-spring-2018/tree/master/5. NLP/5.8/libs.ipynb
@@ -386,10 +419,13 @@ https://github.com/runotwo/natasha/tree/master/natasha/tokenizer.py
 https://github.com/runotwo/natasha/tree/master/natasha/utils.py
 https://github.com/s231644/csc-tech/tree/master/NLP_for_CSC.ipynb
 https://github.com/schwaben-github/Codecademy_LearnPython/tree/master/MadLibs.py
+https://github.com/soboleva-daria/msu-question-answering-system/tree/master/code/utils.py
 https://github.com/soumam007/chat_App/tree/master/client.py
 https://github.com/svdcvt/minor/tree/master/gazprom_prediction.ipynb
 https://github.com/talonreap/matrix/tree/master/Week 4/margerum_dnamatching_solution_withfunctions.py
 https://github.com/tawrahim/CSC7050/tree/master/Compiler_Project/natasha.py
+https://github.com/tigranv/Going_Deeper/tree/master/1. From ML to Deep Learning/.ipynb_checkpoints/5_word2vec-checkpoint.ipynb
+https://github.com/tigranv/Going_Deeper/tree/master/1. From ML to Deep Learning/5_word2vec.ipynb
 https://github.com/timeseries-ru/tstool/tree/master/main.py
 https://github.com/totaki/hackday2017/tree/master/backend/processing/named_entities.py
 https://github.com/tsundokum/nkvd_members/tree/master/analyze_crawled_data.ipynb
@@ -398,4 +434,17 @@ https://github.com/tsundokum/nkvd_members/tree/master/converttotsv.py
 https://github.com/tsundokum/nkvd_members/tree/master/rules.py
 https://github.com/urtrial/deep_d/tree/master/ipynbs_old/sent_preprocess.ipynb
 https://github.com/urtrial/deep_d/tree/master/libs/text_utils.py
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/002_Olga_Filippova.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/004_Shevchenko_Maksim.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/006_Efimov_Ilya.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/007_Gunaze_Alexander.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/010_Simakov_Kirill.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/012_Maxim_Shaposhnikov.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/014_Golovenkov_Evgeny.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/015_Pchelkin_Dmitriy.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/020_Onischenko_Elena.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/029_Aleksei_Krikunov.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/030_Ruziev_Jamshid.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/034_Alexander_Myltsev.ipynb
+https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/tree/master/sport/hw0_surnames_classification/solutions/043_Nikita_Fomin.ipynb
 https://github.com/yutkin/test-task-avito-coins/tree/master/main.py
