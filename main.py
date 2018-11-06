@@ -4,6 +4,7 @@ from urllib.parse import quote as url_quote
 from getpass import getpass as get_pass
 from collections import namedtuple
 from time import sleep
+from os.path import exists
 
 import requests
 
@@ -118,6 +119,8 @@ def dump_lines(lines, path):
 
 
 def load_lines(path):
+    if not exists(path):
+        return
     with open(path) as file:
         for line in file:
             yield line.rstrip('\n')

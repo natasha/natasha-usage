@@ -1,5 +1,5 @@
 
-*Yargy*
+## Yargy
 - bot parse time https://github.com/asyncee/phophet-bot/blob/master/tests/test_times.py
 - edu measures https://github.com/anthonyshevchuk/hello-world/blob/master/Extraction_Example_4.ipynb
 - edu references https://github.com/alexmk7/python_school/tree/master/yargy.ipynb
@@ -14,7 +14,7 @@
 - re https://github.com/iitProgect/parser_results_and_competitions/blob/master/parser/results.py
 - intent? https://github.com/Perevalov/intent_classifier/blob/master/Common/ner.py
 
-*Natasha*
+## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
 - ? edu names https://github.com/DariaZvereva/Coreference-Resolution/blob/master/Russian/mention_extractor.py
 - edu demo https://github.com/echernyak/nlp-course-fintech/blob/master/Seminar_NLP_Fintech_20_09.ipynb
