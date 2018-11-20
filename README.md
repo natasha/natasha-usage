@@ -13,6 +13,7 @@
 - edu https://github.com/danila19991/textAnalysisTutorial/blob/master/task5/solution5.py
 - re https://github.com/iitProgect/parser_results_and_competitions/blob/master/parser/results.py
 - intent? https://github.com/Perevalov/intent_classifier/blob/master/Common/ner.py
+- metro https://github.com/xamgore/spbmetro
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -37,3 +38,5 @@
 - edu https://github.com/MelLain/hse-nlp/blob/master/seminars/sem7_ner/seminar_ner.ipynb
 - qa https://github.com/soboleva-daria/msu-question-answering-system/blob/master/code/utils.py
 - edu dm in action https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/blob/master/sport/hw0_surnames_classification/solutions/043_Nikita_Fomin.ipynb , 029_Aleksei_Krikunov.ipynb , 020_Onischenko_Elena.ipynb , 015_Pchelkin_Dmitriy.ipynb ...
+- nko https://github.com/ttteam22/npo_classification/blob/master/preprocessing.py
+- edu https://github.com/dkbrz/2018_CompLing_2/blob/master/HW-1/HW-1.ipynb
