@@ -14,6 +14,8 @@
 - re https://github.com/iitProgect/parser_results_and_competitions/blob/master/parser/results.py
 - intent? https://github.com/Perevalov/intent_classifier/blob/master/Common/ner.py
 - metro https://github.com/xamgore/spbmetro
+- re https://github.com/Perevalov/pstu_assistant/blob/master/Notebooks/base.ipynb
+- money https://github.com/Julia-Markelova/digdes-project/blob/master/ner_yulyasha.py
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -40,3 +42,4 @@
 - edu dm in action https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring/blob/master/sport/hw0_surnames_classification/solutions/043_Nikita_Fomin.ipynb , 029_Aleksei_Krikunov.ipynb , 020_Onischenko_Elena.ipynb , 015_Pchelkin_Dmitriy.ipynb ...
 - nko https://github.com/ttteam22/npo_classification/blob/master/preprocessing.py
 - edu https://github.com/dkbrz/2018_CompLing_2/blob/master/HW-1/HW-1.ipynb
+- edu https://github.com/MihaJjDa/APCL/blob/master/NATASHA.ipynb
