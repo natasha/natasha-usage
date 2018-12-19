@@ -16,6 +16,10 @@
 - metro https://github.com/xamgore/spbmetro
 - re https://github.com/Perevalov/pstu_assistant/blob/master/Notebooks/base.ipynb
 - money https://github.com/Julia-Markelova/digdes-project/blob/master/ner_yulyasha.py
+- edu https://github.com/Rahmatullina/EMILYA/blob/master/YoungBoyCourse/Task4%2C5/Main.py
+- edu https://github.com/Rahmatullina/EMILYA/blob/master/YoungBoyCourse/Task3/Main.py
+- mail https://github.com/selivanov-as/ml-text-highlights/blob/master/cfg/yargy-natasha.ipynb
+- bot? https://github.com/Vladislao/sites-for-humanity/blob/master/python/yargy_parsing.py
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -43,3 +47,12 @@
 - nko https://github.com/ttteam22/npo_classification/blob/master/preprocessing.py
 - edu https://github.com/dkbrz/2018_CompLing_2/blob/master/HW-1/HW-1.ipynb
 - edu https://github.com/MihaJjDa/APCL/blob/master/NATASHA.ipynb
+- legal date https://github.com/alissiawells/Leviafunc/blob/master/Analysis.ipynb
+- edu ner-server https://github.com/Julia-Markelova/digdes-project
+- tolstoy https://github.com/gershkovich/ColloquyUI/blob/master/data/util/get-named-entities.py
+- edu https://github.com/Nyay/NLP2019-2/blob/master/NLP2018-HW5.ipynb
+- edu ner-server https://github.com/nkorobkov/information-retrieval/blob/master/backend/ner/ner_extractor.py
+- edu https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb
+- edu https://github.com/naermolaeva/NLP/blob/master/natasha_Ermolaeva.ipynb
+- edu https://github.com/Kidorashi/NLP_4/blob/master/HW5_Alexandrova.ipynb
+- search engine https://github.com/werkerostyk/amcp_ir/blob/master/names%20and%20dates.py
