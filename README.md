@@ -20,6 +20,14 @@
 - edu https://github.com/Rahmatullina/EMILYA/blob/master/YoungBoyCourse/Task3/Main.py
 - mail https://github.com/selivanov-as/ml-text-highlights/blob/master/cfg/yargy-natasha.ipynb
 - bot? https://github.com/Vladislao/sites-for-humanity/blob/master/python/yargy_parsing.py
+- tokenizer https://github.com/veegalinova/disambiguator/blob/master/disambiguator/parser.py
+- query tinkoff https://github.com/MrNightSky/HackTinkoff/blob/master/query_preprocessing/query_preprocessing.ipynb
+- prigovor https://github.com/tonko22/prigovor_parser/blob/master/ner.py
+- comptech https://github.com/kbrodt/offer_search
+- tokenizer https://github.com/lilaspourpre/nn-intro/blob/master/helper.py
+- tokenizer https://github.com/veegalinova/disambiguator/blob/master/disambiguator/aknn_sent_parser.py
+- tires https://github.com/fukku3kpvc/yargy-tires/blob/master/tires_parser.py
+- edu https://github.com/deltamachine/nlp_hse/blob/master/4th_year/HW5.ipynb
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -56,3 +64,17 @@
 - edu https://github.com/naermolaeva/NLP/blob/master/natasha_Ermolaeva.ipynb
 - edu https://github.com/Kidorashi/NLP_4/blob/master/HW5_Alexandrova.ipynb
 - search engine https://github.com/werkerostyk/amcp_ir/blob/master/names%20and%20dates.py
+- ner server https://github.com/evgenymozhaev/ner-parser/blob/master/app.py
+- ner server https://github.com/SergeyMalyshevsky/ner
+- edu stanford https://github.com/quinnanya/dlcl204/blob/master/russian/russian_ner.py
+- edu https://github.com/MihaJjDa/APCLtask/blob/master/natasha.ipynb
+- edu https://github.com/dimasextasy/textanalyzerwithNN/blob/master/lab2%20TEXT.ipynb
+- edu cv https://github.com/darkydash/ExamplsForCV/blob/master/81_OutOfUni/ExtractData/getData.py
+- ner compare https://github.com/ods-ai-ml4sg/proj_news_viz/blob/master/nlp/ner/extracting_NER.ipynb
+- ner compare https://github.com/Julia-Markelova/digdes-project/blob/master/main.py
+- edu https://github.com/deltamachine/nlp_hse/blob/master/4th_year/HW1.ipynb
+- legal https://github.com/alissiawells/Leviafunc
+- edu https://github.com/zu-ann/nlp_2/blob/master/hw5.ipynb
+- edu https://github.com/akv17/NLP_IV/blob/master/HW5_Natasha.ipynb
+- edu https://github.com/MariaTsareva/NLP4/blob/master/natasha_Tsareva.ipynb
+- edu https://github.com/artemovae/nlp-course-fintech/blob/master/classes/class02%20-%20VSM/Seminar_NLP_Fintech_20_09.ipynb
