@@ -28,6 +28,30 @@
 - tokenizer https://github.com/veegalinova/disambiguator/blob/master/disambiguator/aknn_sent_parser.py
 - tires https://github.com/fukku3kpvc/yargy-tires/blob/master/tires_parser.py
 - edu https://github.com/deltamachine/nlp_hse/blob/master/4th_year/HW5.ipynb
+- meds https://github.com/renoip2/yargy-parser-for-medical-records/blob/master/extract_module.py
+- edu money https://github.com/EvGdk/Machine-Learning-HSE/blob/master/Yargy_%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.ipynb
+- edu https://github.com/krav-alina/HW/blob/master/NER%20-%20Homework%20-%20Kravchenko%20Alina.ipynb
+- edu money https://github.com/EvGdk/Machine-Learning-HSE/blob/master/Yargy_2.ipynb
+- hack health https://github.com/BIShackatons2020/virus_hack_2020/blob/master/text_analyzer.py
+- edu https://github.com/Nublnv/Diplom/blob/master/__init__.py
+- edu https://github.com/MOBVER430/NLP_2_semester/blob/master/Lab%202-3/Hypernyms.ipynb
+- med chat https://github.com/MimusTriurus/WebExperiments/blob/master/AudioFileRecAndReceive/app/NLP/Facts.py
+- time https://github.com/shlyakpavel/ingles/blob/master/parser.py
+- rent https://github.com/AlexSkrn/yargy_flats_parser/blob/master/yargy_flats_parser.ipynb
+- sud https://github.com/HSEJUDGMENT/judgement/blob/master/metadata_extractor.py
+- meds https://github.com/RomanKotybeev/extractus/blob/master/extract_module.py
+- food https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/food_new.ipynb
+- edu https://github.com/SApsalamov/nlp2020spring/blob/master/Lab2_hyperonym/testyargy.py
+- edu https://github.com/maira1207/NLP/blob/master/lab2/Lab2_Task2_Final.ipynb
+- edu https://github.com/Zhumageldikyzy/NLP/blob/master/lab2-3/Hypernyms.ipynb
+- lib https://github.com/Stoneberry/Russian-libraries/blob/master/data_opening.ipynb
+- jobs https://github.com/AndreyKolomiets/ods_jobs_analytics/blob/master/extractors/position_extractor.py
+- chat https://github.com/SahDoum/Kesha/blob/master/kesha_grammatics.py
+- word->num https://github.com/SergeyShk/Word-to-Number-Russian/blob/master/number.py
+- tires https://github.com/rokku3kpvc/yargy-tires/blob/master/tires_parser.py
+- edu https://github.com/makpaaal/Masters-NLP/blob/master/lab3/lab3.ipynb
+- edu game https://github.com/lnpetrova/comp_ling/blob/master/HW4_part_1.ipynb
+- edu game https://github.com/olgasem10/Compling-tasks/blob/master/%D0%A1%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8_yargy.ipynb
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -78,3 +102,81 @@
 - edu https://github.com/akv17/NLP_IV/blob/master/HW5_Natasha.ipynb
 - edu https://github.com/MariaTsareva/NLP4/blob/master/natasha_Tsareva.ipynb
 - edu https://github.com/artemovae/nlp-course-fintech/blob/master/classes/class02%20-%20VSM/Seminar_NLP_Fintech_20_09.ipynb
+- edu https://github.com/Annstasia/ComplingTrueProject/blob/master/third.py
+- news https://github.com/gakhovakaterina16/news_monitoring_web/blob/master/webapp/server/tasks.py
+- edu https://github.com/hurthusband/her/blob/master/DH_NET.ipynb
+- compare https://github.com/Russian-NLP/tool-testing/blob/master/Natasha-Challenge/NatashaChallenge-Part1.ipynb
+- edu https://github.com/maryszmary/nlp-netology/blob/master/2/NER.ipynb
+
+## Natasha>=1
+- edu https://github.com/HarrierHarrier/news_tracking/tree/master/app/server/tasks.py
+- edu obfuscation https://github.com/LeonidIsaev/AuthorObfuscation/tree/master/Untitled.ipynb
+- paraphrase https://github.com/avidale/dependency-paraphraser/blob/master/dependency_paraphraser/natasha.py
+- compare https://github.com/MutuLawyer/MutuPublic/blob/master/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC_NER_%D0%B2_%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85_%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B0%D1%85_.ipynb
+- toy https://github.com/JGMax/projectLiter/blob/master/WordAnalyser/ner_model_creating.py
+- edu https://github.com/Liza-Kadetova/HseCL_kadetova/blob/master/Yargy_homework_Kadetova_Liza.ipynb
+
+## Navec
+
+- fasttext https://github.com/avidale/compress-fasttext/blob/master/compress_fasttext/quantization.py
+- alice https://github.com/avidale/debug-tgalice/blob/master/main.py
+
+## Corus
+
+- https://github.com/buriy/active_ner/blob/master/anno/learn.py
+- https://github.com/Bleizard/data_analysis/blob/master/TextHelpers.py
+- edu https://github.com/buriy/nlp_workshop/blob/master/part3.ipynb
+
+## Ipymarkup
+
+- https://github.com/schokoro/cnn_crf_nertagger/blob/master/utils/prepare.py
+- https://github.com/marssellio/NLP_tasks/blob/master/task6_recipe_ner.ipynb
+- https://github.com/nandesh553/Named-Entity-Recognition/blob/master/Conditional_Random_Fields.ipynb
+- https://github.com/KirillVladimirov/simcube/blob/master/simcube/sentiment_utils.py
+- https://github.com/Samsung-IT-Academy/stepik-dl-nlp/blob/master/dlnlputils/recipe_utils.py
+- https://github.com/marssellio/NLP_tasks/blob/master/dlnlputils/sentiment_utils.py
+- https://github.com/RomanKotybeev/NLP_medicine/blob/master/UIRS_2/parsing.ipynb
+- https://github.com/samlet/saai/blob/master/notebook/procs-rasa-http-api.ipynb
+- https://github.com/alex-tselikovsky/Solomon/blob/master/Solomon_AI_Services/classifier.py
+
+## Razdel
+
+- https://github.com/KirillVladimirov/simcube/blob/master/notebooks/stepic-nlp/dls_text_summarization.ipynb
+- https://github.com/Vladimirsp81/DLS_2/blob/master/HW_TextSummarization_Vladimir_Prudnikov.ipynb
+- https://github.com/mysmah/Mira/blob/master/OFPNNL.py
+- https://github.com/ayeffkay/Notebooks/blob/master/text_summarization.ipynb
+- https://github.com/kotyukov/huaweiNLP/blob/master/01_Dataset_cleaning_%26_statistics_analysis.ipynb
+- https://github.com/svinkapeppa/comp_models_nl/blob/master/summarization/Untitled.ipynb
+- https://github.com/tomatiks/tin_edu/blob/master/week1/tfstextclassification/week1_NLP.ipynb
+- https://github.com/tomatiks/tin_edu/blob/master/week1/hw1/tokenize.ipynb
+- https://github.com/IlyaGusev/summarus/blob/master/summarus/util/build_oracle.py
+- https://github.com/Muhamob/abbyy_nlp_advanced/blob/master/summarization/summarization_seminar.ipynb
+- https://github.com/avidale/alice-skill-search/blob/master/nlg.py
+- https://github.com/leventsov-i/nlp/blob/master/task-4-ngrams.ipynb
+- https://github.com/Alavask/LP_Labs/blob/master/LR1/main.py
+- https://github.com/GarryGaller/nlp_toolkit/blob/master/nlptk/misc/mixins.py
+- https://github.com/kimaril/ficbook-corpora/blob/master/src/data/bigrams_extraction.py
+- https://github.com/sberbank-ai/combined_solution_aij2019/blob/master/solvers/solver13.py
+- https://github.com/oneza/PythonTask/blob/master/%D0%91%D0%BE%D1%82/data_manipulate.py
+- https://github.com/annnyway/QA-for-Russian/blob/master/baseline_anya/Baseline_Anya.ipynb
+- https://github.com/e1four15f/math-modeling-institute/blob/master/final_report.ipynb
+- https://github.com/IlyaGusev/purano/blob/master/purano/cluster.py
+- https://github.com/MariEliseeva/NLP/blob/master/hw4.ipynb
+- https://github.com/VadimFarutin/natural-language-processing/blob/master/task4.ipynb
+- https://github.com/BLKSerene/Wordless/blob/master/src/wordless_text/wordless_text_processing.py
+- https://github.com/bureaucratic-labs/dostoevsky/blob/master/dostoevsky/tokenization.py
+- https://github.com/irma-matua/diploma/blob/master/words_sentences.ipynb
+- https://github.com/DanAnastasyev/AIJ2019/blob/master/solvers/solver27_retrieval.py
+- https://github.com/ods-ai-ml4sg/proj_news_viz/blob/master/nlp/notebooks/EDA/news_source_analysis_gazeta.ipynb
+- https://github.com/Lonerien/tinkoffhack/blob/master/code_text.ipynb
+- https://github.com/peter-pogorelov/spbsu-soc-networks/blob/master/Tonalnost.ipynb
+- https://github.com/PacketCat/Mira/blob/master/nya.py
+- https://github.com/mikhmakarov/text_classifiers/blob/master/datasets.py
+- https://github.com/bulatuseinov/Tinkoff_NLP/blob/master/03-04_dz/hw02-03.ipynb
+- https://github.com/esenin-org/esenin-modules/blob/master/esenin-razdel/main.py
+- https://github.com/makarevichy/little_elmo/blob/master/Test_classifier/classifier_elmo.py
+- https://github.com/mrdro1/few_shot/blob/master/rus/ulmfit_step2.ipynb
+- https://github.com/AlexandrPolyakov/Tinkoff-NLP/blob/master/hw_3.ipynb
+- https://github.com/kimaril/clickbait-classifier/blob/master/notebooks/4.0-trial-and-error-lstm.ipynb
+- https://github.com/buriy/table_is_long/blob/master/text/tokenize_mystem.py
+- https://github.com/master8/vacanciesanalysis/blob/master/classification/split.py

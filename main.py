@@ -8,7 +8,7 @@ from os.path import exists
 
 import requests
 
-from ipymarkup import show_markup
+from ipymarkup import show_span_box_markup as show_markup
 
 
 TEXT_MATCH = {
