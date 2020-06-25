@@ -1,10 +1,10 @@
 
 ## Yargy
-- bot parse time https://github.com/asyncee/phophet-bot/blob/master/tests/test_times.py
+- *bot parse time https://github.com/asyncee/phophet-bot/blob/master/tests/test_times.py
 - edu measures https://github.com/anthonyshevchuk/hello-world/blob/master/Extraction_Example_4.ipynb
 - edu references https://github.com/alexmk7/python_school/tree/master/yargy.ipynb
 - https://github.com/ilyaly/CrimesParser-MVD_RF-/tree/master/Crimes_to_geojson.py
-- https://github.com/tsundokum/nkvd_members/blob/master/rules.py
+- *social https://github.com/tsundokum/nkvd_members/blob/master/rules.py
 - bot https://github.com/agvinogradov/smart_telegram_bot/tree/master/user_manager/yargy_ner.py
 - https://github.com/kuznetsovn/PZZ/tree/master/4. add coordinates.ipynb
 - bot https://github.com/Ilyaololo/voice-helper/blob/master/text_catcher/name_entity_extraction/rules.py
@@ -13,13 +13,13 @@
 - edu https://github.com/danila19991/textAnalysisTutorial/blob/master/task5/solution5.py
 - re https://github.com/iitProgect/parser_results_and_competitions/blob/master/parser/results.py
 - intent? https://github.com/Perevalov/intent_classifier/blob/master/Common/ner.py
-- metro https://github.com/xamgore/spbmetro
+- *metro https://github.com/xamgore/spbmetro
 - re https://github.com/Perevalov/pstu_assistant/blob/master/Notebooks/base.ipynb
 - money https://github.com/Julia-Markelova/digdes-project/blob/master/ner_yulyasha.py
 - edu https://github.com/Rahmatullina/EMILYA/blob/master/YoungBoyCourse/Task4%2C5/Main.py
 - edu https://github.com/Rahmatullina/EMILYA/blob/master/YoungBoyCourse/Task3/Main.py
 - mail https://github.com/selivanov-as/ml-text-highlights/blob/master/cfg/yargy-natasha.ipynb
-- bot? https://github.com/Vladislao/sites-for-humanity/blob/master/python/yargy_parsing.py
+- chat? https://github.com/Vladislao/sites-for-humanity/blob/master/python/yargy_parsing.py
 - tokenizer https://github.com/veegalinova/disambiguator/blob/master/disambiguator/parser.py
 - query tinkoff https://github.com/MrNightSky/HackTinkoff/blob/master/query_preprocessing/query_preprocessing.ipynb
 - prigovor https://github.com/tonko22/prigovor_parser/blob/master/ner.py
@@ -37,21 +37,26 @@
 - edu https://github.com/MOBVER430/NLP_2_semester/blob/master/Lab%202-3/Hypernyms.ipynb
 - med chat https://github.com/MimusTriurus/WebExperiments/blob/master/AudioFileRecAndReceive/app/NLP/Facts.py
 - time https://github.com/shlyakpavel/ingles/blob/master/parser.py
-- rent https://github.com/AlexSkrn/yargy_flats_parser/blob/master/yargy_flats_parser.ipynb
+- *rent https://github.com/AlexSkrn/yargy_flats_parser/blob/master/yargy_flats_parser.ipynb
 - sud https://github.com/HSEJUDGMENT/judgement/blob/master/metadata_extractor.py
 - meds https://github.com/RomanKotybeev/extractus/blob/master/extract_module.py
-- food https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/food_new.ipynb
+- edu food https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/food_new.ipynb
 - edu https://github.com/SApsalamov/nlp2020spring/blob/master/Lab2_hyperonym/testyargy.py
 - edu https://github.com/maira1207/NLP/blob/master/lab2/Lab2_Task2_Final.ipynb
 - edu https://github.com/Zhumageldikyzy/NLP/blob/master/lab2-3/Hypernyms.ipynb
 - lib https://github.com/Stoneberry/Russian-libraries/blob/master/data_opening.ipynb
-- jobs https://github.com/AndreyKolomiets/ods_jobs_analytics/blob/master/extractors/position_extractor.py
+- *jobs https://github.com/AndreyKolomiets/ods_jobs_analytics/blob/master/extractors/position_extractor.py
 - chat https://github.com/SahDoum/Kesha/blob/master/kesha_grammatics.py
 - word->num https://github.com/SergeyShk/Word-to-Number-Russian/blob/master/number.py
 - tires https://github.com/rokku3kpvc/yargy-tires/blob/master/tires_parser.py
 - edu https://github.com/makpaaal/Masters-NLP/blob/master/lab3/lab3.ipynb
 - edu game https://github.com/lnpetrova/comp_ling/blob/master/HW4_part_1.ipynb
 - edu game https://github.com/olgasem10/Compling-tasks/blob/master/%D0%A1%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8_yargy.ipynb
+- utils https://github.com/moff4/natasha_patch/blob/master/patch.py
+- social dtp https://github.com/Nickname1748/TrafficAccidents/blob/master/Filtration/location.py
+- edu? https://github.com/blackmius/mtt/blob/master/grammars/auditory.py
+- edu https://github.com/nsykhr/ma_compling/blob/master/04/games_ner.ipynb
+- meds https://github.com/RomanKotybeev/NLP_medicine/blob/master/UIRS_2/date_time_exam.py
 
 ## Natasha
 - edu ner https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb
@@ -107,6 +112,8 @@
 - edu https://github.com/hurthusband/her/blob/master/DH_NET.ipynb
 - compare https://github.com/Russian-NLP/tool-testing/blob/master/Natasha-Challenge/NatashaChallenge-Part1.ipynb
 - edu https://github.com/maryszmary/nlp-netology/blob/master/2/NER.ipynb
+- chat https://github.com/Romamart/ChatBot_rus/blob/master/RunBot.py
+- weather https://github.com/purelistica/HseNlpWeather/blob/master/src/weather.py
 
 ## Natasha>=1
 - edu https://github.com/HarrierHarrier/news_tracking/tree/master/app/server/tasks.py
@@ -115,17 +122,22 @@
 - compare https://github.com/MutuLawyer/MutuPublic/blob/master/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC_NER_%D0%B2_%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85_%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B0%D1%85_.ipynb
 - toy https://github.com/JGMax/projectLiter/blob/master/WordAnalyser/ner_model_creating.py
 - edu https://github.com/Liza-Kadetova/HseCL_kadetova/blob/master/Yargy_homework_Kadetova_Liza.ipynb
+- web api https://github.com/nastunef/web_service_analyzer/blob/master/analyzer/analyzer_class/tokenizer.py
+- time https://github.com/libraPhat2909/DucklingRus/blob/master/py/timex3.py
+- addr https://github.com/ProgVanish/address.ru/blob/master/code.py
 
 ## Navec
 
 - fasttext https://github.com/avidale/compress-fasttext/blob/master/compress_fasttext/quantization.py
 - alice https://github.com/avidale/debug-tgalice/blob/master/main.py
+- similar https://github.com/IvanetsAS/pluto_ideas_portal_api/blob/master/pluto_ideas_api/Classes/textprocess/most_relevant_plain_word2vec.py
 
 ## Corus
 
 - https://github.com/buriy/active_ner/blob/master/anno/learn.py
 - https://github.com/Bleizard/data_analysis/blob/master/TextHelpers.py
-- edu https://github.com/buriy/nlp_workshop/blob/master/part3.ipynb
+- lenta edu https://github.com/buriy/nlp_workshop/blob/master/part3.ipynb
+- wiki gpt https://github.com/razinkovnik/rugpt2/blob/master/data_wiki.py
 
 ## Ipymarkup
 
@@ -138,6 +150,7 @@
 - https://github.com/RomanKotybeev/NLP_medicine/blob/master/UIRS_2/parsing.ipynb
 - https://github.com/samlet/saai/blob/master/notebook/procs-rasa-http-api.ipynb
 - https://github.com/alex-tselikovsky/Solomon/blob/master/Solomon_AI_Services/classifier.py
+- edu https://github.com/ShepelevaIS/NLP_course/blob/master/task2/hometask_ner.ipynb
 
 ## Razdel
 
@@ -180,3 +193,14 @@
 - https://github.com/kimaril/clickbait-classifier/blob/master/notebooks/4.0-trial-and-error-lstm.ipynb
 - https://github.com/buriy/table_is_long/blob/master/text/tokenize_mystem.py
 - https://github.com/master8/vacanciesanalysis/blob/master/classification/split.py
+- ruts https://github.com/SergeyShk/ruTS/blob/master/ruts/extractors.py
+- edu https://github.com/ShepelevaIS/NLP_course/blob/master/task2/hometask_ner.ipynb
+- research https://github.com/InstituteForIndustrialEconomics/rured/blob/master/convert_brat_to_tacred.py
+- edu https://github.com/ShepelevaIS/NLP_course/blob/master/task1/03_Pytorch_EmbeddingsTraining_LM.ipynb
+- edu https://github.com/annnyway/automatic-intent-shift-detection/blob/master/neural_networks/3_class_classification_BIMPM.ipynb
+- text align https://github.com/averkij/text-alignment-pipeline/blob/master/text-aligner.ipynb
+- edu https://github.com/eestien/NLP/blob/master/TextSummarization.ipynb
+- edu https://github.com/kotyukov/huaweiNLP/blob/master/03_Extractive_RNN_model.ipynb
+- ner research https://github.com/iis-research-team/ner-rc-russian/blob/master/nn_methods/BERT/brat2semeval2010.py
+- utils https://github.com/avidale/alice-skill-search/blob/master/skill/nlg.py
+- preproc https://github.com/teachmehowtoprogram/Habr_acrticle_rating_prediction/blob/master/preprocessing_tools.py
